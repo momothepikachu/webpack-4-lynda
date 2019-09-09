@@ -1,0 +1,12 @@
+h1  {
+    font-family: Arial;
+    color: salmon;
+}
+
+#image {
+    background:url('cat.jpg');
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    height: 500px;
+    width: 500px;
+}
